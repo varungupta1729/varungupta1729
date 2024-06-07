@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Varun Gupta</h1>
-<h3 align="center">A Passionate MERN Developer From INDIA</h3>
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Varun Gupta
+========================================================================================================================================
+<h3 align="left">A Passionate MERN Developer From INDIA</h3>
+<br>
 - 🔭 I’m currently working on [PROTUT](https://github.com/varungupta1729/Test_Repo)
 
 - 🌱 I’m currently learning **Docker**
