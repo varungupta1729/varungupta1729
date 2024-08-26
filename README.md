@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">A Passionate MERN Developer From INDIA</h3>
 <br>
 
-- 🔭 I’m currently working on **PROTUT**
+- 🔭 I’m currently working in **Digizura PVT LTD**
 
 - 🌱 I’m currently learning **Docker**
 
